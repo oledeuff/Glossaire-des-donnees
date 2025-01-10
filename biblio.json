@@ -1,0 +1,494 @@
+[
+    {
+        "id": "Bastard2014",
+        "type": "chapter",
+        "title": "Travail et travailleurs de la donnée : Les sciences sociales et les données du web dans l’enquête Algopol",
+        "author": [
+            {"family": "Bastard", "given": "Isabelle"},
+            {"family": "Cardon", "given": "Dominique"},
+            {"family": "Fouetillou", "given": "Guillaume"},
+            {"family": "Prieur", "given": "Christophe"},
+            {"family": "Raux", "given": "Sébastien"}
+        ],
+        "year": "2014",
+        "container-title": "Big Data Nouvelles partitions de l’information",
+        "publisher": "De Boeck Supérieur",
+        "page": "133-148",
+        "doi": "10.3917/dbu.caan.2014.02.0133"
+    },
+    {
+        "id": "BenHenda2019",
+        "type": "paper-conference",
+        "title": "TICE: normativité, interopérabilité et pratiques convergentes",
+        "author": [
+            {"family": "Ben Henda", "given": "Mokhtar"}
+        ],
+        "year": "2019",
+        "container-title": "ECOTIDI: Numérique et Formation à Distance",
+        "event-date": "2019-10-15"
+    },
+    {
+        "id": "BenHenda2006",
+        "type": "paper-conference",
+        "title": "Les standards de métadonnées pédagogiques : quelle interopérabilité ?",
+        "author": [
+            {"family": "Ben Henda", "given": "Mokhtar"}
+        ],
+        "year": "2006",
+        "container-title": "23e Congrès de l’AIPU 'Innovation, Formation et Recherche en pédagogie universitaire'",
+        "publisher": "Association Internationale de Pédagogie Universitaire",
+        "event-place": "Monastir, Tunisie",
+        "event-date": "2006-05-23",
+        "URL": "https://hal.archives-ouvertes.fr/hal-04554697"
+    },
+    {
+        "id": "Cardon2012",
+        "type": "article-journal",
+        "title": "Regarder les données",
+        "author": [
+            {"family": "Cardon", "given": "Dominique"}
+        ],
+        "year": "2012",
+        "container-title": "Multitudes",
+        "volume": "49",
+        "issue": "2",
+        "page": "138-142",
+        "doi": "10.3917/mult.049.0138"
+    },
+    {
+        "id": "Casseau2024",
+        "type": "thesis",
+        "title": "Accompagnement à l’exécution des notebooks Jupyter en milieu éducatif",
+        "author": [
+            {"family": "Casseau", "given": "Camille"}
+        ],
+        "year": "2024",
+        "publisher": "Université de Bordeaux",
+        "genre": "Thèse de doctorat"
+    },
+    {
+        "id": "Casemajor2024",
+        "type": "chapter",
+        "title": "Cultures de données et publics de données: conceptualisation critique",
+        "author": [
+            {"family": "Casemajor", "given": "Nathalie"}
+        ],
+        "year": "2024",
+        "container-title": "Datafication et publics de données. Penser la mise en donnée de la société",
+        "publisher": "Presses de l’Université de Montréal",
+        "URL": "https://hal.archives-ouvertes.fr/hal-04254885v2"
+    },
+    {
+        "id": "CatoirBrisson2021",
+        "type": "article-journal",
+        "title": "Design d'information et physicalisation des données : une expérience pédagogique en Humanités numériques",
+        "author": [
+            {"family": "Catoir-Brisson", "given": "Marie-Julie"}
+        ],
+        "year": "2021",
+        "container-title": "Sens public",
+        "page": "1–23",
+        "doi": "10.7202/1089653ar"
+    },
+    {
+        "id": "Chabin2010",
+        "type": "book",
+        "title": "Nouveau glossaire de l’archivage",
+        "author": [
+            {"family": "Chabin", "given": "Marie-Anne"}
+        ],
+        "year": "2010",
+        "publisher": "Archive 17",
+        "URL": "http://www.archive17.fr/index.php/l-archivage-pour-les-nuls/nouveau-glossaire-de-larchivage.html"
+    },
+    {
+        "id": "Cutts2024",
+        "type": "article-journal",
+        "title": "Shifting power: data democracy in engineering solutions",
+        "author": [
+            {"family": "Cutts", "given": "Beth B."},
+            {"family": "Osia", "given": "Uche"},
+            {"family": "Bray", "given": "Lydia A."},
+            {"family": "Harris", "given": "Amanda R."},
+            {"family": "Long", "given": "Heather C."},
+            {"family": "Goins", "given": "Hannah"},
+            {"family": "Schnetzer", "given": "Amanda"}
+        ],
+        "year": "2024",
+        "container-title": "Environmental Research Letters",
+        "volume": "19",
+        "issue": "10",
+        "doi": "10.1088/1748-9326/ac1e2a"
+    },
+    {
+        "id": "Delort2018",
+        "type": "book",
+        "title": "Le big data",
+        "author": [
+            {"family": "Delort", "given": "Pierre"}
+        ],
+        "year": "2018",
+        "publisher": "Presses Universitaires de France",
+        "series": "Que sais-je ?"
+    },
+    {
+        "id": "Deneuville2024",
+        "type": "article-newspaper",
+        "title": "L’usage des données en accès libre questionne la pratique des journalistes",
+        "author": [
+            {"family": "Deneuville", "given": "Alexandre"},
+            {"family": "Rasmi", "given": "Jad"}
+        ],
+        "year": "2024",
+        "container-title": "The Conversation",
+        "URL": "http://theconversation.com/lusage-des-donnees-en-acces-libre-questionne-la-pratique-des-journalistes-227239",
+        "issued": {
+            "date-parts": [["2024", "09", "19"]]
+        }
+    },
+    {
+        "id": "D’Ignazio2017",
+        "type": "article-journal",
+        "title": "Creative data literacy: Bridging the gap between the data-haves and data-have nots",
+        "author": [
+            {"family": "D'Ignazio", "given": "Catherine"}
+        ],
+        "year": "2017",
+        "container-title": "Information Design Journal",
+        "volume": "23",
+        "issue": "1",
+        "page": "6-18",
+        "doi": "10.1075/idj.23.1.03dig"
+    },
+    {
+        "id": "Fredriksson2015",
+        "type": "article-journal",
+        "title": "Du design d’information à la visualisation de données : un enjeu de transmission de sens auprès de la société civile",
+        "author": [
+            {"family": "Fredriksson", "given": "Sara"}
+        ],
+        "year": "2015",
+        "container-title": "I2D - Information, données & documents",
+        "volume": "52",
+        "issue": "2",
+        "page": "36-36",
+        "doi": "10.3917/i2d.152.0036"
+    },
+    {
+        "id": "Guichard2019",
+        "type": "article-journal",
+        "title": "Cartographie et visualisation",
+        "author": [
+            {"family": "Guichard", "given": "Éric"}
+        ],
+        "year": "2019",
+        "container-title": "Annales des Mines - Responsabilité & environnement",
+        "issue": "94",
+        "page": "38-41",
+        "doi": "10.3917/re1.094.0038"
+    },
+    {
+        "id": "Isaac2022",
+        "type": "article-journal",
+        "title": "Quelle souveraineté numérique européenne?",
+        "author": [
+            {"family": "Isaac", "given": "Henri"}
+        ],
+        "year": "2022",
+        "container-title": "Revue française de gestion",
+        "volume": "305",
+        "issue": "4",
+        "page": "63-77",
+        "doi": "10.3166/rfg.2022.00063"
+    },
+    {
+        "id": "Jansen2015",
+        "type": "article-journal",
+        "title": "Les représentations physiques de données",
+        "author": [
+            {"family": "Jansen", "given": "Yvonne"},
+            {"family": "Dragicevic", "given": "Pierre"}
+        ],
+        "year": "2015",
+        "container-title": "I2D - Information, données & documents",
+        "volume": "52",
+        "issue": "2",
+        "page": "37-37",
+        "doi": "10.3917/i2d.152.0037"
+    },
+    {
+        "id": "Joliveau2013",
+        "type": "article-journal",
+        "title": "La cartographie 2.0, vers une approche critique d'un nouveau régime cartographique",
+        "author": [
+            {"family": "Joliveau", "given": "Thierry"},
+            {"family": "Noucher", "given": "Mathieu"},
+            {"family": "Roche", "given": "Stéphane"}
+        ],
+        "year": "2013",
+        "container-title": "L'Information géographique",
+        "volume": "77",
+        "issue": "4",
+        "page": "29-46",
+        "doi": "10.3917/lig.774.0029"
+    },
+    {
+        "id": "Labadie2020",
+        "type": "paper-conference",
+        "title": "Data Democratization in Practice: Fostering Data Usage with Data Catalogs",
+        "author": [
+            {"family": "Labadie", "given": "Clément"},
+            {"family": "Eurich", "given": "Matthias"},
+            {"family": "Legner", "given": "Christine"}
+        ],
+        "year": "2020",
+        "container-title": "Conférence AIM",
+        "event-place": "Marrakech",
+        "event-date": "2020-06-15"
+    },
+    {
+        "id": "Labelle2023",
+        "type": "article-journal",
+        "title": "Pouvoir des médiations dispositives et consécration de l’agir ingénieur. Enquête sur les politiques de données en France",
+        "author": [
+            {"family": "Labelle", "given": "Sarah"}
+        ],
+        "year": "2023",
+        "container-title": "Approches Théoriques en Information-Communication (ATIC)",
+        "volume": "7",
+        "issue": "2",
+        "page": "101-117",
+        "doi": "10.3917/atic.007.0101"
+    },
+    {
+        "id": "Lagnel2021",
+        "type": "book",
+        "title": "Manuel de datavisualisation-2e éd.: Méthodes-Cas pratiques",
+        "author": [
+            {"family": "Lagnel", "given": "Jean-Marc"}
+        ],
+        "year": "2021",
+        "publisher": "Dunod",
+        "ISBN": "978-2-10-082345-6"
+    },
+    {
+        "id": "LeDeuff2021",
+        "type": "article-journal",
+        "title": "L’Open Source Intelligence (OSINT) : origine, définitions et portée, entre convergence professionnelle et accessibilité à l’information",
+        "author": [
+            {"family": "Le Deuff", "given": "Olivier"}
+        ],
+        "year": "2021",
+        "container-title": "I2D - Information, données & documents",
+        "volume": "1",
+        "issue": "1",
+        "page": "14-20",
+        "doi": "10.3917/i2d.211.0014"
+    },
+    {
+        "id": "Lehmans2017",
+        "type": "article-journal",
+        "title": "Données ouvertes et redéfinition de la culture de l’information dans les organisations",
+        "author": [
+            {"family": "Lehmans", "given": "Anne"}
+        ],
+        "year": "2017",
+        "container-title": "Communication et organisation",
+        "volume": "51",
+        "URL": "http://journals.openedition.org/communicationorganisation/5495",
+        "doi": "10.4000/communicationorganisation.5495"
+    },
+    {
+        "id": "Lehmans2018",
+        "type": "article-journal",
+        "title": "Les réinventions de la démocratie à l’aune de l’ouverture des données: du discours de la participation aux contraintes de la gouvernance",
+        "author": [
+            {"family": "Lehmans", "given": "Anne"}
+        ],
+        "year": "2018",
+        "container-title": "Les Enjeux de l'information et de la communication",
+        "issue": "2",
+        "page": "135-146",
+        "doi": "10.3917/enjeu.022.0135"
+    },
+    {
+        "id": "Lehmans2023",
+        "type": "article-journal",
+        "title": "Le cadre de l’expérience des données en éducation : gouvernance, représentations et intelligibilité des données dans l’éducation nationale",
+        "author": [
+            {"family": "Lehmans", "given": "Anne"},
+            {"family": "Capelle", "given": "Camille"}
+        ],
+        "year": "2023",
+        "container-title": "Communication & Organisation",
+        "volume": "64",
+        "issue": "2",
+        "page": "33-49",
+        "doi": "10.4000/communicationorganisation.12583"
+    },
+    {
+        "id": "Lehmans2022",
+        "type": "article-journal",
+        "title": "Des littératies aux approches culturelles du numérique : l’exemple de la culture des données dans le champ de l’éducation aux médias et à l’information (EMI)",
+        "author": [
+            {"family": "Lehmans", "given": "Anne"},
+            {"family": "Liquète", "given": "Vincent"}
+        ],
+        "year": "2022",
+        "container-title": "Approches Théoriques en Information-Communication (ATIC)",
+        "volume": "5",
+        "issue": "2",
+        "page": "35-46",
+        "doi": "10.3917/atic.005.0035"
+    },
+    {
+        "id": "Merzeau2009",
+        "type": "article-journal",
+        "title": "Du signe à la trace : l'information sur mesure",
+        "author": [
+            {"family": "Merzeau", "given": "Louise"}
+        ],
+        "year": "2009",
+        "container-title": "Hermès, La Revue",
+        "volume": "53",
+        "issue": "1",
+        "page": "21-29",
+        "doi": "10.4267/2042/31471"
+    },
+    {
+        "id": "Musiani2015",
+        "type": "article-journal",
+        "title": "Les architectures P2P Une solution européenne originale pour la protection des données personnelles ?",
+        "author": [
+            {"family": "Musiani", "given": "Francesca"}
+        ],
+        "year": "2015",
+        "container-title": "Réseaux",
+        "volume": "189",
+        "issue": "1",
+        "page": "47-75",
+        "doi": "10.3917/res.189.0047"
+    },
+    {
+        "id": "Pène2020",
+        "type": "article-journal",
+        "title": "Métiers de la fonction publique : motifs et modèles de transition numérique",
+        "author": [
+            {"family": "Pène", "given": "Sophie"}
+        ],
+        "year": "2020",
+        "container-title": "Approches Théoriques en Information-Communication (ATIC)",
+        "volume": "1",
+        "page": "58-80",
+        "doi": "10.3917/atic.001.0058"
+    },
+    {
+        "id": "Pérès2016",
+        "type": "article-journal",
+        "title": "Analyser avec des outils descriptifs et statistiques des infographies d’infographies Questionner les processus de visualisation",
+        "author": [
+            {"family": "Pérès", "given": "Mathieu"}
+        ],
+        "year": "2016",
+        "container-title": "Les Cahiers du numérique",
+        "volume": "12",
+        "issue": "4",
+        "page": "65-92",
+        "doi": "10.3166/lcn.12.4.65-92"
+    },
+    {
+        "id": "Quimbert2022",
+        "type": "report",
+        "title": "Guide principes FAIR",
+        "author": [
+            {"family": "Quimbert", "given": "Élodie"},
+            {"family": "Fichaut", "given": "Mickaël"},
+            {"family": "Maudire", "given": "Guillaume"}
+        ],
+        "year": "2022",
+        "publisher": "ODATIS",
+        "doi": "10.13155/87107"
+    },
+    {
+        "id": "Raulin2022",
+        "type": "article-journal",
+        "title": "L’intelligence artificielle dans la gestion et la valorisation de l’information : clés de repérage (histoire et analyse)",
+        "author": [
+            {"family": "Raulin", "given": "Alexandre"}
+        ],
+        "year": "2022",
+        "container-title": "I2D - Information, données & documents",
+        "volume": "1",
+        "issue": "1",
+        "page": "14-21",
+        "doi": "10.3917/i2d.221.0014"
+    },
+    {
+        "id": "Rousseau1994",
+        "type": "book",
+        "title": "Les fondements de la discipline archivistique",
+        "author": [
+            {"family": "Rousseau", "given": "Jean-Yves"},
+            {"family": "Couture", "given": "Carol"}
+        ],
+        "year": "1994",
+        "publisher": "Presses de l’Université du Québec",
+        "ISBN": "978-2-7605-0738-3"
+    },
+    {
+        "id": "Rubin2020",
+        "type": "article-journal",
+        "title": "Learning to reason with data: How did we get here and what do we know?",
+        "author": [
+            {"family": "Rubin", "given": "Andee"}
+        ],
+        "year": "2020",
+        "container-title": "Journal of the Learning Sciences",
+        "volume": "29",
+        "page": "154-164",
+        "doi": "10.1080/10508406.2020.1723891"
+    },
+    {
+        "id": "Schield2004",
+        "type": "article-journal",
+        "title": "Information Literacy, Statistical Literacy and Data Literacy",
+        "author": [
+            {"family": "Schield", "given": "Milo"}
+        ],
+        "year": "2004",
+        "container-title": "IASSIST Quarterly",
+        "volume": "28",
+        "issue": "2–3",
+        "page": "7–14",
+        "doi": "10.29173/iq790"
+    },
+    {
+        "id": "Verdi2023",
+        "type": "article-journal",
+        "title": "Quelle(s) réponse(s) à l’enjeu d’acculturation aux données ? Un état de l’art des caractéristiques de la data literacy",
+        "author": [
+            {"family": "Verdi", "given": "Ugo"}
+        ],
+        "year": "2023",
+        "container-title": "Revue française des sciences de l’information et de la communication",
+        "volume": "26",
+        "URL": "http://journals.openedition.org/rfsic/14589",
+        "doi": "10.4000/rfsic.14589"
+    },
+    {
+        "id": "Verdi2024",
+        "type": "paper-conference",
+        "title": "La gouvernance des données en contexte universitaire : proposition d'un modèle de maturité",
+        "author": [
+            {"family": "Verdi", "given": "Ugo"},
+            {"family": "Pinède", "given": "Nathalie"},
+            {"family": "Melançon", "given": "Guillaume"}
+        ],
+        "year": "2024",
+        "container-title": "INFORSID 2024",
+        "event-place": "Nancy, France",
+        "event-date": "2024-05-21",
+        "page": "21-36",
+        "URL": "https://hal.archives-ouvertes.fr/hal-04585975"
+    }
+]

@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&family=Space+Mono:wght@400;700&display=swap');
+
+/* Couleurs primaires et secondaires */
+:root {
+    --primary-color: #40E0D0; /* Couleur turquoise */
+    --text-color: #333; /* Couleur de texte foncée pour une meilleure lisibilité */
+    --background-color: #f8f8f8; /* Fond légèrement gris pour imiter le papier */
+    --border-color: #ddd; /* Bordure discrète pour délimiter le contenu */
+}
+
+.record-title {
+    font-family: 'Space Mono', monospace;
+    font-size: 36px;
+    color: var(--primary-color);
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--background-color);
+    padding: 15px;
+    border: 1px solid var(--border-color);
+    margin: 20px 0;
+    text-align: justify;
+    hyphens: auto;
+}
+
+button, .btn {
+    color: var(--primary-color); /* Couleur du texte du bouton */
+    border-radius: 6px;
+    border: 1px solid var(--primary-color); /* Bordure avec la couleur primaire */
+    padding: 5px 10px;
+    transition: all 0.1s ease;
+    background-color: transparent; /* Fond transparent */
+}
+
+button:hover {
+    animation-duration: .8s;
+    animation-name: clignoter;
+    animation-iteration-count: infinite;
+    transition: none;
+}
+
+.h1.title {
+    font-family: 'Space Mono', monospace;
+    text-transform: uppercase;
+    font-size: 27px;
+    color: var(--primary-color);
+    text-align: center;
+}
+
+aside.menu header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+aside.menu header:before {
+    display: inline-block;
+    height: 70px;
+    width: 100px;
+    background-size: 100px 70px;
+    background-repeat: no-repeat;
+}
+
+article.record header {
+    display: grid;
+    gap: 0 1em;
+    grid-template:
+    "thumbnail title" auto
+    "thumbnail nom" auto
+    "thumbnail prénom" auto
+    "thumbnail type" auto
+    "tags tags" auto / 100px 1fr;
+}
+
+.record-thumbnail span:nth-child(2) {
+    grid-area: thumbnail;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-image: url(attr(content));
+    background-size: cover;
+    background-repeat: no-repeat;
+    content: "";
+}
+
+div.record-nom,
+div.record-prenom {
+    width: 50%;
+}
+
+div.record-tags {
+    grid-area: tags;
+    grid-column: 1 / 3;
+}

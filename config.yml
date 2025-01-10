@@ -1,0 +1,79 @@
+select_origin: directory
+files_origin: ./fiches
+nodes_origin: ""
+links_origin: ""
+nodes_online: ""
+links_online: ""
+images_origin: ""
+export_target: ./export/
+history: false
+focus_max: 2
+record_types:
+  undefined:
+    fill: "#a7a0a0"
+    stroke: "#a7a0a0"
+  concept:
+    fill: "#1982c4"
+    stroke: "#1982c4"
+  outil:
+    fill: "#8ac927"
+    stroke: "#8ac927"
+  technique:
+    fill: "#59cf92"
+    stroke: "#59cf92"
+  professionnel:
+    fill: "#ff8e38"
+    stroke: "#ff8e38"
+  législation:
+    fill: "#6a4c93"
+    stroke: "#6a4c93"
+  méthode:
+    fill: "#ef1f1f"
+    stroke: "#ef1f1f"
+  organisation:
+    fill: "#f36d9c"
+    stroke: "#f36d9c"
+link_types:
+  undefined:
+    stroke: simple
+    color: "#e1e1e1"
+  o:
+    stroke: simple
+    color: "#e01f1f"
+  g:
+    stroke: simple
+    color: "#000000"
+record_filters: []
+graph_background_color: "#ffffff"
+graph_highlight_color: "#ff6a6a"
+graph_highlight_on_hover: true
+graph_text_size: 6
+graph_arrows: true
+node_size_method: degree
+node_size: 10
+node_size_max: 10
+node_size_min: 2
+attraction_force: 75
+attraction_distance_max: 250
+attraction_vertical: 0.1
+attraction_horizontal: 0.1
+views: {}
+chronological_record_meta: created
+record_metas: []
+title: Glossaire de la formation et de l’éducation aux données
+author: Camille Capelle, Anne Lehmans, Marie Chagnoux, Aude Seurrat, Sarah Labelle
+description: Ce glossaire recense différents termes et notions liés à la formation et à l’éducation aux données. Il a été réalisé dans le cadre du GTnum DEFI (Données pour l’Éducation, la Formation, l’Innovation) soutenu par la Direction du numérique pour l’éducation. GTnum IMSDEFI. 2021-2024. 2024.hal-04851373
+keywords:
+  - données
+  - éducation
+  - formation
+  - littératie
+  - gouvernance
+  - visualisation
+link_symbol: →
+csl: ./apa-fr.csl
+bibliography: ./biblio.json
+csl_locale: "locales.xml"
+css_custom: ./custom.css
+devtools: false
+lang: fr
